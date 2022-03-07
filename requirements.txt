@@ -1,0 +1,9 @@
+pandas == 1.4.1
+checkthechain == 0.2.8
+black == 22.1.0
+flake8 == 4.0.1
+isort == 5.10.1
+mypy == 0.931
+ipykernel == 6.9.1
+jupyterlab == 3.3.0
+pyarrow==7.0.0
