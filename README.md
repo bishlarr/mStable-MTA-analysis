@@ -1,6 +1,8 @@
 # MTA Analysis
 
-Please create a python notebook, do an on-chain analysis of our MTA token, and give us your findings.
+Here is a repository to do an on-chain analysis of the MTA token using FEI's checkthechain library.
+
+The results are displayed in the Jupiter Notebook.
 
 ## Running
 
@@ -40,7 +42,3 @@ There is already [a file](./mStable-data/utils/contracts.py) with some of the ad
 If you need to find more information, you can find it on [https://developers.mstable.org/](https://developers.mstable.org/)
 
 **ABIs**: If you want to use another ABI that is not in the project, drop it in the [abis folder](./mStable-data/abis/) and modify [abi_to_py.py](./mStable-data/utils/abi_to_py.py) to generate the python file.
-
-### Off-chain
-
-Feel free to use other off-chain services to get more data to help with your insights
